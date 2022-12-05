@@ -1,4 +1,4 @@
-# Case-Study-6_Life-Expectancy-Prediction
+# Case-Study-DS_Life-Expectancy-Prediction
 The case study is about to figure out the main effective predictors of life expectancy using ML model (regression). Also an application is deployed on R shiny app, where the parameters can be changed to see the effective results.
 
 ## The .R file is saved as ipynb file to ensure the delievery of visualize the results directly.
