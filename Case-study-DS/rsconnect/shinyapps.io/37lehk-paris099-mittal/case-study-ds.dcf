@@ -1,0 +1,14 @@
+name: case-study-ds
+title:
+username:
+account: 37lehk-paris099-mittal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7812213
+bundleId: 6591223
+url: https://37lehk-paris099-mittal.shinyapps.io/case-study-ds/
+when: 1670208748.30657
+lastSyncTime: 1670208748.30658
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R
